@@ -1,5 +1,5 @@
 {
-	"_base": ""
+	"_base": "https://raw.githubusercontent.com/mikeoat/RIFLES-SAMPLES/main/"
 	
 	"gran-sn_hi": "snar/granule_terrakh_snare_hi.wav"
 	"gran-sn_hi-mid": "snar/granule_terrakh_snare_hi-mid.wav"
