@@ -1,30 +1,30 @@
 {
-	"_base": "https://raw.githubusercontent.com/mikeoat/RIFLES-SAMPLES/main/"
+	"_base": "https://raw.githubusercontent.com/mikeoat/RIFLES-SAMPLES/main/",
 	
-	"gran-sn_hi": "snar/granule_terrakh_snare_hi.wav"
-	"gran-sn_hi-mid": "snar/granule_terrakh_snare_hi-mid.wav"
-	"gran-sn_lo-mid": "snar/granule_terrakh_snare_lo-mid.wav"
-	"gran-sn_lo": "snar/granule_terrakh_snare_lo.wav"
+	"gran-sn_hi": "snar/granule_terrakh_snare_hi.wav",
+	"gran-sn_hi-mid": "snar/granule_terrakh_snare_hi-mid.wav",
+	"gran-sn_lo-mid": "snar/granule_terrakh_snare_lo-mid.wav",
+	"gran-sn_lo": "snar/granule_terrakh_snare_lo.wav",
 	
-	"gran-misc_deep" : "misc/granule_deep_terrakh.wav"
-	"gran-misc_deep1" : "misc/granule_deep_terrakh_var1.wav"
-	"gran-misc_sand" : "misc/granule_resonant-sand.wav"
+	"gran-misc_deep" : "misc/granule_deep_terrakh.wav",
+	"gran-misc_deep1" : "misc/granule_deep_terrakh_var1.wav",
+	"gran-misc_sand" : "misc/granule_resonant-sand.wav",
 	
-	"gran-chrd_sandverb": "chrd/granule_chord_sandverb.wav"
-	"gran-chrd_chop": "chrd/granule_chord-chop.wav"
-	"gran-chrd_stab": "chrd/granule_chord-stab.wav"
-	"gran-chrd_stabloss": "chrd/granule_chord-stab_data-loss.wav"
-	"gran-chrd_stabloss1": "chrd/granule_chord-stab_data-loss_var1.wav"
-	"gran-chrd_stabloss2": "chrd/granule_chord-stab_data-loss_var2.wav"
-	"gran-chrd_stabloss3": "chrd/granule_chord-stab_data-loss_var3.wav"
-	"gran-chrd_stabloss4": "chrd/granule_chord-stab_data-loss_var4.wav"
-	"gran-chrd_dwnsmpl": "chrd/granule_chord-stab_downsample.wav"
-	"gran-chrd_terrakh": "chrd/granule_chord-stab_terrakh.wav"
-	"gran-chrd_terrakh1": "chrd/granule_chord-stab_terrakh_var1.wav"
-	"gran-chrd_terrakh2": "chrd/granule_chord-stab_terrakh_var2.wav"
-	"gran-chrd_terrakh3": "chrd/granule_chord-stab_terrakh_var3.wav"
-	"gran-chrd_terrakhloss": "chrd/granule_chord-stab_terrakh_data-loss.wav"
-	"gran-chrd_terrakhloss1": "chrd/granule_chord-stab_terrakh_data-loss_var1.wav"
-	"gran-chrd_terrakhloss2": "chrd/granule_chord-stab_terrakh_data-loss_var2.wav"
+	"gran-chrd_sandverb": "chrd/granule_chord_sandverb.wav",
+	"gran-chrd_chop": "chrd/granule_chord-chop.wav",
+	"gran-chrd_stab": "chrd/granule_chord-stab.wav",
+	"gran-chrd_stabloss": "chrd/granule_chord-stab_data-loss.wav",
+	"gran-chrd_stabloss1": "chrd/granule_chord-stab_data-loss_var1.wav",
+	"gran-chrd_stabloss2": "chrd/granule_chord-stab_data-loss_var2.wav",
+	"gran-chrd_stabloss3": "chrd/granule_chord-stab_data-loss_var3.wav",
+	"gran-chrd_stabloss4": "chrd/granule_chord-stab_data-loss_var4.wav",
+	"gran-chrd_dwnsmpl": "chrd/granule_chord-stab_downsample.wav",
+	"gran-chrd_terrakh": "chrd/granule_chord-stab_terrakh.wav",
+	"gran-chrd_terrakh1": "chrd/granule_chord-stab_terrakh_var1.wav",
+	"gran-chrd_terrakh2": "chrd/granule_chord-stab_terrakh_var2.wav",
+	"gran-chrd_terrakh3": "chrd/granule_chord-stab_terrakh_var3.wav",
+	"gran-chrd_terrakhloss": "chrd/granule_chord-stab_terrakh_data-loss.wav",
+	"gran-chrd_terrakhloss1": "chrd/granule_chord-stab_terrakh_data-loss_var1.wav",
+	"gran-chrd_terrakhloss2": "chrd/granule_chord-stab_terrakh_data-loss_var2.wav",
 	"gran-chrd_terrakhloss3": "chrd/granule_chord-stab_terrakh_data-loss_var3.wav"
 }
