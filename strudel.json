@@ -3,6 +3,7 @@
 	"gesic_bd-chop": "bd/gesic_bd-chop.wav",
 	"gesic_bd-noise": "bd/gesic_bd-noise.wav",
 	"gesic_bd-tone": "bd/gesic_bd-tone.wav",
+
 	"gesic_rim-chord": "snar/gesic_rim-chord.wav",
 	"gesic_rim-noise": "snar/gesic_rim-chord.wav",
 	"gesic_sn-oh": "snar/gesic_sn-oh.wav",
@@ -10,9 +11,11 @@
 	"gran-sn_hi-mid": "snar/granule_terrakh_snare_hi-mid.wav",
 	"gran-sn_lo-mid": "snar/granule_terrakh_snare_lo-mid.wav",
 	"gran-sn_lo": "snar/granule_terrakh_snare_lo.wav",
+	
 	"gran-misc_deep": "misc/granule_deep_terrakh.wav",
 	"gran-misc_deep1": "misc/granule_deep_terrakh_var1.wav",
 	"gran-misc_sand": "misc/granule_resonant-sand.wav",
+
 	"gesic-chrd_chop": "chrd/gesic_chop.wav",
 	"gran-chrd_sandverb": "chrd/granule_chord_sandverb.wav",
 	"gran-chrd_chop": "chrd/granule_chord-chop.wav",
@@ -30,5 +33,15 @@
 	"gran-chrd_terrakhloss": "chrd/granule_chord-stab_terrakh_data-loss.wav",
 	"gran-chrd_terrakhloss1": "chrd/granule_chord-stab_terrakh_data-loss_var1.wav",
 	"gran-chrd_terrakhloss2": "chrd/granule_chord-stab_terrakh_data-loss_var2.wav",
-	"gran-chrd_terrakhloss3": "chrd/granule_chord-stab_terrakh_data-loss_var3.wav"
+	"gran-chrd_terrakhloss3": "chrd/granule_chord-stab_terrakh_data-loss_var3.wav",
+	
+	"rg-hi": "rg/rg1.wav",
+	"rg-gotta": "rg/rg2.wav",
+	"rg-aye": "rg/rg3.wav",
+	"rg-hi2": "rg/rg4.wav",
+	"rg-beez": "rg/rg5.wav",
+	"rg-nono": "rg/rg6.wav",
+	"rg-fucku": "rg/rg7.wav",
+	"rg-fuckcharts": "rg/rg8.wav",
+	"rg-you": "rg/rg9.wav"
 }
