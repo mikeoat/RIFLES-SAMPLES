@@ -8,7 +8,7 @@
 	"gesic_rim-noise": "snar/gesic_rim-chord.wav",
 	"gesic_sn-oh": "snar/gesic_sn-oh.wav",
 	"gran-sn_hi": "snar/granule_terrakh_snare_hi.wav",
-	"gran-sn_hi-mid": "snar/granule_terrakh_snare_hi-mid.wav",
+	"": "snar/granule_terrakh_snare_hi-mid.wav",
 	"gran-sn_lo-mid": "snar/granule_terrakh_snare_lo-mid.wav",
 	"gran-sn_lo": "snar/granule_terrakh_snare_lo.wav",
 	
@@ -39,7 +39,7 @@
 	"rg-gotta": "rg/rg2.wav",
 	"rg-aye": "rg/rg3.wav",
 	"rg-hi2": "rg/rg4.wav",
-	"rg-beez": "rg/rg5.wav",
+	"": "rg/rg5.wav",
 	"rg-nono": "rg/rg6.wav",
 	"rg-fucku": "rg/rg7.wav",
 	"rg-fuckcharts": "rg/rg8.wav",
